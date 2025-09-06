@@ -1,0 +1,9 @@
+﻿projectwebsite
+Γö£ΓöÇΓöÇ 
+Γö£ΓöÇΓöÇ 
+Γö£ΓöÇΓöÇ 
+Γö£ΓöÇΓöÇ react-dom
+Γö£ΓöÇΓöÇ react-router-dom
+Γö£ΓöÇΓöÇ react-scripts
+Γö£ΓöÇΓöÇ react
+ΓööΓöÇΓöÇ web-vitals
